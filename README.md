@@ -33,7 +33,7 @@
             <img alt="Static Badge" src="https://img.shields.io/badge/yaml%09-white?logo=yaml&logoColor=black">
             <img alt="Static Badge" src="https://img.shields.io/badge/Docker%20-white?logo=docker">
             <img alt="Static Badge" src="https://img.shields.io/badge/Git%09-white?logo=git">
-            <img alt="Static Badge" src="https://img.shields.io/badge/Github%20pages%09-white?logo=github&logoColor=black">
+            <img alt="Static Badge" src="https://img.shields.io/badge/Github-white?logo=github&logoColor=black">
         </kbd>
     <kbd>
         <kbd>Cloud Services</kbd>
