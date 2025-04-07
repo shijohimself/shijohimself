@@ -62,8 +62,8 @@
       <td width="50%">
         <h4 align="center">Spotify-ETL-Pipeline</h4>
         <p align="center">
-          <a href="https://github.com/lawal-hash/OlistELT" target="_blank">
-            <img src="images/OlistELTx3.png" width="90%" alt="Project"/>
+          <a href="https://github.com/shijohimself/spotify-etl-pipeline-project" target="_blank">
+            <img src="images/spotify_data-pipline.png" width="90%" alt="Project"/>
           </a>
           <p align="center">
           </p>
@@ -73,7 +73,7 @@
         <h4 align="center">Olympic-Data-Pipeline</h4>
         <p align="center">
           <a href="https://github.com/shijohimself/olympic-data-insight-data-pipeline-azure" target="_blank">
-            <img src="project-architecture/project_architecture.png" width="75%" alt="Olympic-data-pipeline"/>
+            <img src="images/project_architecture.png" width="75%" alt="Olympic-data-pipeline"/>
           </a>
           <p align="center">
           </p>
