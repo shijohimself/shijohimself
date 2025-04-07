@@ -70,10 +70,10 @@
         </p>
       </td>
       <td width="50%">
-        <h4 align="center">SalesELT Pipeline</h4>
+        <h4 align="center">Olympic-Data-Pipeline</h4>
         <p align="center">
-          <a href="https://github.com/lawal-hash/SalesELT" target="_blank">
-            <img src="images/test.png" width="75%" alt="Sales ELT"/>
+          <a href="https://github.com/shijohimself/olympic-data-insight-data-pipeline-azure" target="_blank">
+            <img src="project-architecture/project_architecture.png" width="75%" alt="Olympic-data-pipeline"/>
           </a>
           <p align="center">
           </p>
